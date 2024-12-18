@@ -51,6 +51,9 @@ Click on the client-1's Network Settings. Then click on Network Interface/IP Con
 
 ![image](https://github.com/user-attachments/assets/61e6f200-3be4-49ee-abc6-80b60ccaecc1)
 
+Click on DNS Server. Select Custom and enter dc-1's private IP address. 
+
+![image](https://github.com/user-attachments/assets/49ae430d-3ef5-4e42-8255-5980f43ddba7)
 
 </p>
 <br />
