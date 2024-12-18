@@ -47,7 +47,10 @@ This tutorial outlines the implementation of on-premises Active Directory within
 </p>
 <p>
   
-Click on the client-1's Network Settings. 
+Click on the client-1's Network Settings. Then click on Network Interface/IP Configuration
+
+![image](https://github.com/user-attachments/assets/61e6f200-3be4-49ee-abc6-80b60ccaecc1)
+
 
 </p>
 <br />
