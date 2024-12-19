@@ -96,4 +96,12 @@ Login to DC-1 and select Server Manager from the Start Menu.
 Click on "Add Roles and Features".
 
 </p>
+
+<p>
+![image](https://github.com/user-attachments/assets/b22bd92f-778c-47ae-abfd-55cf54b8f65c)
+ 
+</p>
+
+<p>
+</p>
 <br />
