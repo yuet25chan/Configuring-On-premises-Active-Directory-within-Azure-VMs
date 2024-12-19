@@ -98,10 +98,13 @@ Click on "Add Roles and Features".
 </p>
 
 <p>
+
 ![image](https://github.com/user-attachments/assets/b22bd92f-778c-47ae-abfd-55cf54b8f65c)
  
 </p>
 
 <p>
+On the Select Installation Type Tab, select Role-based or feature-based installation and clieck on "Next".   
+
 </p>
 <br />
