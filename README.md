@@ -177,7 +177,7 @@ Click "Next".
 </p>
 
 <p>
-Check the box, click "Next" and then click on "Install". 
+Check the box, click "Next" and then click "Install". 
 </p>
 <br />
 
@@ -189,7 +189,7 @@ Check the box, click "Next" and then click on "Install".
 
 <P>
 
-Once the Active Directory has been installed, we can promote DC-1 as a domain controller. To promote it as a domain controler, we need to click on the flag on the upper right and then click on "Promote this server to a domain controller". 
+Once the Active Directory has been installed, we can promote DC-1 as a domain controller. To promote it as a domain controler, we need to click on the flag on the upper right and click "Promote this server to a domain controller". 
 
 </P>
 
