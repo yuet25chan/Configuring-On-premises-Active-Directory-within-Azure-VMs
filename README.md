@@ -85,4 +85,15 @@ Login to DC-1 and install Active Directory Domain Services.
 Login to DC-1 and select Server Manager from the Start Menu. 
 
 </p>
+
+<p>
+
+![image](https://github.com/user-attachments/assets/f062f352-af7d-4f3d-b1c3-80ee4b18e3b2)
+
+</p>
+
+<p>
+Click on "Add Roles and Features".
+
+</p>
 <br />
