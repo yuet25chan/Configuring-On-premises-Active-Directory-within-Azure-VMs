@@ -193,3 +193,13 @@ Once the Active Directory has been installed, we can promote DC-1 as a domain co
 
 </P>
 
+
+<p>
+
+![image](https://github.com/user-attachments/assets/c1ca72c2-c209-4f84-8e34-ca4459a0312c)
+
+</p>
+
+
+
+
