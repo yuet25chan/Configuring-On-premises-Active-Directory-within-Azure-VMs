@@ -143,5 +143,19 @@ Select "Active Domain Services" under the "Server Role" tab and click "Next".
 
 <p>
 Click on "Add features". 
+
 </p>
+
+<p>
+
+![image](https://github.com/user-attachments/assets/6e6b212d-5a1c-4450-a607-0e186e42abd1)
+
+
+</p>
+
+<p>
+Click "Next". 
+
+</p>
+
 <br />
