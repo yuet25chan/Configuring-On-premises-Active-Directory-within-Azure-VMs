@@ -200,6 +200,9 @@ Once the Active Directory has been installed, we can promote DC-1 as a domain co
 
 </p>
 
+<p>
+
+Select "Set as a Forest" and enter the the domain name. 
 
 
 
