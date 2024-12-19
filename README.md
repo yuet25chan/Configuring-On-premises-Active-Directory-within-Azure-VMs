@@ -105,7 +105,19 @@ Click on "Add Roles and Features".
 </p>
 
 <p>
-On the Select Installation Type Tab, select Role-based or feature-based installation and click on "Next".   
+On the Select Installation Type Tab, select Role-based or feature-based installation and click "Next".   
+
+</p>
+
+<p>
+
+![image](https://github.com/user-attachments/assets/487d5bd5-6ee0-4a7a-b498-e00b74479548)
+
+</p>
+
+<p>
+
+Select DC-1 as the server under the Server Selection tab and click "Next".
 
 </p>
 <br />
