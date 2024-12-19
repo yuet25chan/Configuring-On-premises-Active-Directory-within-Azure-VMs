@@ -65,7 +65,7 @@ Click on DNS Server. Select Custom and enter dc-1's private IP address.
 After VM is created, set Client-1’s DNS settings to DC-1’s Private IP address
 From the Azure Portal, restart Client-1
 Login to Client-1
-Attempt to ping DC-1’s private IP address
+Attempt to ping DC-1's private IP address
 
 <img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
@@ -80,5 +80,8 @@ Log
 </p>
 <p>
 Login to DC-1 and install Active Directory Domain Services. 
+
+Login to DC-1 and select Server Manager from the Start Menu. 
+
 </p>
 <br />
