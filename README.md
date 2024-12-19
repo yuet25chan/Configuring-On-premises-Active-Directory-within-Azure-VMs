@@ -202,7 +202,21 @@ Once the Active Directory has been installed, we can promote DC-1 as a domain co
 
 <p>
 
-Select "Set as a Forest" and enter the the domain name. 
+Select "Set as a Forest", enter the domain name, and click "Next". 
+
+
+</p>
+
+![image](https://github.com/user-attachments/assets/62f8688e-d209-43d3-911f-fd700adbd81c)
+
+
+<p>
+
+<P>
+
+Enter the password. 
+</p>
+
 
 
 
