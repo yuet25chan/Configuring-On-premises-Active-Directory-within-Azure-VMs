@@ -120,4 +120,28 @@ On the Select Installation Type Tab, select Role-based or feature-based installa
 Select DC-1 as the server under the Server Selection tab and click "Next".
 
 </p>
+
+<p>
+
+![image](https://github.com/user-attachments/assets/54cac71a-6895-40cd-bafa-2fbacfa4edfe)
+
+
+</p>
+
+<p>
+
+Select "Active Domain Services" under the "Server Role" tab and click "Next". 
+
+</p>
+
+<p>
+
+![image](https://github.com/user-attachments/assets/c2dfbd8a-b549-44bf-8607-6228db7e8f50)
+
+
+</p>
+
+<p>
+Click on "Add features". 
+</p>
 <br />
