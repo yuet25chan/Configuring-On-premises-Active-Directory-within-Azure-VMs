@@ -180,3 +180,16 @@ Click "Next".
 Check the box, click "Next" and then click on "Install". 
 </p>
 <br />
+
+<p>
+
+![image](https://github.com/user-attachments/assets/c0d96718-edd2-4b1a-a1a0-29aa217b75af)
+
+</p>
+
+<P>
+
+Once the Active Directory has been installed, we can promote DC-1 as a domain controller. To promote it as a domain controler, we need to click on the flag on the upper right and then click on "Promote this server to a domain controller". 
+
+</P>
+
