@@ -164,7 +164,19 @@ Click "Next".
 
 </p>
 
+<p>
+Click "Next".
+  
+</p>
 
 
+<p>
+  
+![image](https://github.com/user-attachments/assets/1c163325-31c7-458c-8b15-5538a357dfd1)
 
+</p>
+
+<p>
+Check the box and click "Next". 
+</p>
 <br />
