@@ -215,8 +215,14 @@ Select "Set as a Forest", enter the domain name, and click "Next".
 <P>
 
 Enter the password. 
+
 </p>
 
+<p>
+  
+![image](https://github.com/user-attachments/assets/6a146019-5715-4cdb-bbb4-465a6aac0f10)
 
 
+</p>
 
+<Leave the box unchecked and click "Next". 
