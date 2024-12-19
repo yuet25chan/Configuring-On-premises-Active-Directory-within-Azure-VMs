@@ -177,6 +177,6 @@ Click "Next".
 </p>
 
 <p>
-Check the box and click "Next". 
+Check the box, click "Next" and then click on "Install". 
 </p>
 <br />
