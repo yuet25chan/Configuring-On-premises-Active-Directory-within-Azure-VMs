@@ -314,3 +314,10 @@ In Active Directory Users and Computers (ADUC), create an Organizational Unit (O
 
 </p>
 
+<p>
+
+![image](https://github.com/user-attachments/assets/3201662f-1cce-4fd9-9f33-8f8e8f057c66)
+
+</P>
+
+
