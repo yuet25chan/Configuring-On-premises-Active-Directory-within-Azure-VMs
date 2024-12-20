@@ -349,8 +349,16 @@ Right-click the "_ADMINS" folder, then click "New" and then click "Users." Creat
 
 ![image](https://github.com/user-attachments/assets/66bc5653-db8f-4b3a-9982-b304f0568419)
 
-</p>
+![image](https://github.com/user-attachments/assets/85e87008-a021-4627-a799-ff30a8e29ca0)
 
+![image](https://github.com/user-attachments/assets/ddd77647-1d70-44a1-bc54-f81df08e32d2)
+
+![image](https://github.com/user-attachments/assets/af6f317e-f0a8-40a6-b3d9-55920a13e7a6)
+
+
+
+</p>
+<p>
 
 </p>
 
