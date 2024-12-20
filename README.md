@@ -240,3 +240,9 @@ Leave the box unchecked and click "Next".
 <p>
 Click "Next". 
 </p>
+
+<p>
+
+![image](https://github.com/user-attachments/assets/78beabde-edeb-4148-b25a-a33a806b0193)
+
+</p>
