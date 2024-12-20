@@ -330,12 +330,18 @@ Create a new OU named “_ADMINS”.
 
 ![image](https://github.com/user-attachments/assets/df9433e7-3e1e-4e56-b8c0-e703d2a38876)
 
+![image](https://github.com/user-attachments/assets/d7cbd056-f216-4e73-a1b9-5af347d054d8)
+
+![image](https://github.com/user-attachments/assets/c40bef18-4190-4f5a-b3e7-dfeae2088289)
+
+![image](https://github.com/user-attachments/assets/17af0896-bc22-41c0-b0a6-58ac2e02c580)
+
 
 </P>
 
 <p>
 
-Right click the "_ADMINS" folder, then click "New and then click "Users". Create a new employee named “Jane Doe” (same password) with the username of “jane_admin” / Cyberlab123!. 
+Right click the "_ADMINS" folder, then click "New and then click "Users". Create a new employee named “Jane Doe” (same password) with the username of “jane_admin” and enter the password. Click "Finish". 
 
 </P>
 
