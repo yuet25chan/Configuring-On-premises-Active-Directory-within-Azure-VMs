@@ -341,7 +341,16 @@ Create a new OU named “_ADMINS”.
 
 <p>
 
-Right click the "_ADMINS" folder, then click "New and then click "Users". Create a new employee named “Jane Doe” (same password) with the username of “jane_admin” and enter the password. Click "Finish". 
+Right-click the "_ADMINS" folder, then click "New" and then click "Users." Create a new employee named “Jane Doe” (same password) with the username “jane_admin” and enter the password. Click "Finish." 
 
 </P>
+
+<p>
+
+![image](https://github.com/user-attachments/assets/66bc5653-db8f-4b3a-9982-b304f0568419)
+
+</p>
+
+
+</p>
 
