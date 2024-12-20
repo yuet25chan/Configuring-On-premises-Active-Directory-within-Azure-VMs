@@ -271,3 +271,9 @@ Click "Next".
 ![image](https://github.com/user-attachments/assets/c8ad599a-7d06-4e0b-b838-0e869bb11bf7)
 
 </p>
+
+<p>
+
+Click "Install".
+
+</p>
