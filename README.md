@@ -225,4 +225,17 @@ Enter the password.
 
 </p>
 
-<Leave the box unchecked and click "Next". 
+<p>
+
+Leave the box unchecked and click "Next". 
+
+</P>
+
+<p>
+
+![image](https://github.com/user-attachments/assets/b075c1f9-3757-41f1-ae08-19b53dad12e6)
+
+</p>
+
+
+
