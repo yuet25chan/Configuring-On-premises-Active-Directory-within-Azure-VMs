@@ -328,9 +328,14 @@ Create a new OU named “_ADMINS”.
 
 </p>
 
+![image](https://github.com/user-attachments/assets/df9433e7-3e1e-4e56-b8c0-e703d2a38876)
 
 
 </P>
 
+<p>
 
+Right click the "_ADMINS" folder, then click "New and then click "Users". Create a new employee named “Jane Doe” (same password) with the username of “jane_admin” / Cyberlab123!. 
+
+</P>
 
