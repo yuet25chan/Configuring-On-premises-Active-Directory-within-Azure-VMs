@@ -318,6 +318,19 @@ In Active Directory Users and Computers (ADUC), create an Organizational Unit (O
 
 ![image](https://github.com/user-attachments/assets/3201662f-1cce-4fd9-9f33-8f8e8f057c66)
 
+
+![image](https://github.com/user-attachments/assets/ddd87feb-d39a-4e9b-b4af-89553cf8cad5)
 </P>
+
+<p>
+  
+Create a new OU named “_ADMINS”.
+
+</p>
+
+
+
+</P>
+
 
 
