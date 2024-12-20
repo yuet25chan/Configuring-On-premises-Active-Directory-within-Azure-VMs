@@ -245,6 +245,7 @@ Click "Next".
 
 ![image](https://github.com/user-attachments/assets/78beabde-edeb-4148-b25a-a33a806b0193)
 
+
 </p>
 
 <p>
@@ -303,14 +304,13 @@ Once logged in, Click on the Start menu. Click "Windows Administrative Tools" an
 
 ![image](https://github.com/user-attachments/assets/ffc20837-d7e5-4995-accd-8b4a38e97db4)
 
-
-
+![image](https://github.com/user-attachments/assets/3314776c-730f-4e43-80c8-cc713de944e3)
 
 </p>
 
-
 <p>
 
+In Active Directory Users and Computers (ADUC), create an Organizational Unit (OU) called “_EMPLOYEES”
 
 </p>
 
