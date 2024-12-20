@@ -246,3 +246,16 @@ Click "Next".
 ![image](https://github.com/user-attachments/assets/78beabde-edeb-4148-b25a-a33a806b0193)
 
 </p>
+
+<p>
+
+Click "Next". 
+
+</p>
+
+<p>
+
+![image](https://github.com/user-attachments/assets/989c8794-55bc-48c3-8e3b-773e95af306d)
+
+
+</p>
