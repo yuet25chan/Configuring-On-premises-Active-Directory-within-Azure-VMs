@@ -280,15 +280,22 @@ Click "Install".
 
 <p>
 
-After the active directory has been installed, login Restart and then log back into DC-1 as user: mydomain.com\labuser. 
+After the active directory has been installed, log out to restart and then log back into DC-1 as user:mydomain.com\labuser. 
 
 </p>
 
-![image](https://github.com/user-attachments/assets/0985e1b3-2125-48ee-94aa-56f296584151)
+![image](https://github.com/user-attachments/assets/a6020289-3610-44dd-9deb-f93323418aeb)
 
 
 </p>
 
 <p>
 
-Once logged in, Click on the Start menu. Click on "Windows Administrative Tools" and then "Active Directory Sites and Services". 
+Once logged in, Click on the Start menu. Click "Windows Administrative Tools" and open "Active Directory Users and Computers". 
+
+</p>
+
+
+
+
+
