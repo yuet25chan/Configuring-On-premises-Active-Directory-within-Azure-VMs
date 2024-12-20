@@ -237,5 +237,6 @@ Leave the box unchecked and click "Next".
 
 </p>
 
-
-
+<p>
+Click "Next". 
+</p>
