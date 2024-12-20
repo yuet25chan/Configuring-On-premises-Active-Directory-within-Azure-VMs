@@ -277,3 +277,14 @@ Click "Next".
 Click "Install".
 
 </p>
+
+<p>
+
+After the active directory has been installed, login Restart and then log back into DC-1 as user: mydomain.com\labuser. 
+
+</p>
+
+
+
+
+</p>
