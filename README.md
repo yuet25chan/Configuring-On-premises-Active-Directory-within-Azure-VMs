@@ -284,7 +284,11 @@ After the active directory has been installed, login Restart and then log back i
 
 </p>
 
-
+![image](https://github.com/user-attachments/assets/0985e1b3-2125-48ee-94aa-56f296584151)
 
 
 </p>
+
+<p>
+
+Once logged in, Click on the Start menu. Click on "Windows Administrative Tools" and then "Active Directory Sites and Services". 
