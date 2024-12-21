@@ -384,6 +384,9 @@ Login to Client-1 as the original local admin (labuser). Once logged in, right-c
 
 ![image](https://github.com/user-attachments/assets/7c388edc-e21d-464e-9f2e-f4618c1dd5f4)
 
+![image](https://github.com/user-attachments/assets/bc915c92-9c4c-4b01-a715-76ccee6caa87)
+
+
 
 </p>
 
