@@ -378,3 +378,11 @@ In the "_ADMINS" folder, right-click Jane Doe. Select "Properties" and click on 
 Login to Client-1 as the original local admin (labuser). Once logged in, right-click the "Start" Menu, then click "Settings" and then click "Rename this PC (Advanced)". Under the Computer Name tab, click on "Change". Join mydomain.com. Log in with mydomain.com\jane_admin. 
 
 </p>
+
+
+<p>
+
+![image](https://github.com/user-attachments/assets/7c388edc-e21d-464e-9f2e-f4618c1dd5f4)
+
+
+</p>
