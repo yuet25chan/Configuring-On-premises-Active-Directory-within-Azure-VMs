@@ -393,6 +393,6 @@ Login to Client-1 as the original local admin (labuser). Once logged in, right-c
 
 <p>
 
-You can log in to the Domain Controller and verify that Client-1 shows up in ADUC. Create a new OU named “_CLIENTS” and drag Client-1 into there
+You can log in to the Domain Controller and verify that Client-1 shows up in ADUC. Create a new OU named “_CLIENTS” and drag Client-1 into there. 
 
 </p>
