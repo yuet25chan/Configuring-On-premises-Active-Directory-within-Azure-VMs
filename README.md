@@ -432,3 +432,8 @@ Right-click the "Start" icon and click "System" on the menu. Click on "Remote De
 
 </p>
 
+<p>
+  
+Right-click "Windows Powershell ISE" and select "Run as administrator".
+
+</p>
