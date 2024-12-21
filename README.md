@@ -359,7 +359,8 @@ Right-click the "_ADMINS" folder, then click "New" and then click "Users." Creat
 
 <p>
 
-In the "_ADMINS" folder, right-click Jane Doe. Select "Properties" and click on the "Member of" tab. Add Jane Doe as "Domain Admin" and click "Apply". 
+In the "_ADMINS" folder, right-click Jane Doe. Select "Properties" and click on the "Member of" tab. Add Jane Doe as "Domain Admin" and click "Apply". Log out / close the connection to DC-1 and log back in as “mydomain.com\jane_admin”. Use jane_admin as your admin account from now on
+
 
 </p>
 <p>
