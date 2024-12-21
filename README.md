@@ -447,7 +447,12 @@ Log in to dc-1. Right-click "Windows Powershell ISE" and select "Run as administ
 
 <p>
   
-![image](https://github.com/user-attachments/assets/8fee3baf-9ddc-41fe-99b2-42ea2f257ed5)
+![image](https://github.com/user-attachments/assets/6979884e-3307-4aa5-b77f-1c8a84352bed)
 
 
+</p>
+
+<p>
+  
+While the users are still being created, we can refresh the "_Employees" folder in "Active Directory Users and Computers" to see the users that have been created.    
 </p>
