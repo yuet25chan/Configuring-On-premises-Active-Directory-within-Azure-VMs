@@ -429,11 +429,12 @@ Right-click the "Start" icon and click "System" on the menu. Click on "Remote De
 
 ![image](https://github.com/user-attachments/assets/7a778288-4322-401d-b691-b704a2c1bc86)
 
+![image](https://github.com/user-attachments/assets/6910ad4b-7a52-4a3b-982b-0927697336c6)
 
 </p>
 
 <p>
   
-Right-click "Windows Powershell ISE" and select "Run as administrator".
+Login to dc-1. Right-click "Windows Powershell ISE" and select "Run as administrator". Once the Windows Powershell is open, open a new file. 
 
 </p>
