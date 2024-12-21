@@ -451,6 +451,7 @@ Log in to dc-1. Right-click "Windows Powershell ISE" and select "Run as administ
 
 ![image](https://github.com/user-attachments/assets/3309a76a-74e0-44eb-a197-c513c8968d85)
 
+![image](https://github.com/user-attachments/assets/c46a06ef-5a38-4210-9384-d7002ac35d89)
 
 
 
@@ -459,7 +460,7 @@ Log in to dc-1. Right-click "Windows Powershell ISE" and select "Run as administ
 
 <p>
   
-While the users are still being created, we can refresh the "_Employees" folder in "Active Directory Users and Computers" to see the users that have been created. Randomly select one of these accounts that have been created and login to client-1 with the user name and "Password1", a default password that has been set for all these accounts. Let's try logging in with the username "babe.mexo" and the default password. The login was successful. 
+While the users are still being created, we can refresh the "_Employees" folder in "Active Directory Users and Computers" to see the users that have been created. Randomly select one of these accounts that have been created and login to client-1 with the user name and "Password1", a default password that has been set for all these accounts. Let's try logging in with the username "babe.mexo" and the default password. The login was successful. To verify this, you can open the Command Line and see if it has a local profile on this computer. 
 
 
 </p>
