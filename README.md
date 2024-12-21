@@ -359,7 +359,7 @@ Right-click the "_ADMINS" folder, then click "New" and then click "Users." Creat
 
 <p>
 
-In the "_ADMINS" folder, right-click Jane Doe.  
+In the "_ADMINS" folder, right-click Jane Doe. Select "Properties" and click on the "Member of" tab. Add Jane Doe as "Domain Admin" and click "Apply". 
 
 </p>
 <p>
