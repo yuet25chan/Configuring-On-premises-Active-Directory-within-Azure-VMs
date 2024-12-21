@@ -359,7 +359,7 @@ Right-click the "_ADMINS" folder, then click "New" and then click "Users." Creat
 
 <p>
 
-
+In the "_ADMINS" folder, right-click Jane Doe.  
 
 </p>
 <p>
