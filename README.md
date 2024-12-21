@@ -405,9 +405,13 @@ You can log in to the Domain Controller and verify that Client-1 shows up in ADU
   
 ![image](https://github.com/user-attachments/assets/b521b43e-29de-4216-bd49-06824accd26f)
 
+![image](https://github.com/user-attachments/assets/1199e506-385b-4282-8d56-936337c9594b)
+
+
 </p>
 
 <p>
 
-Right-click the "Start" icon and click "System" on the menu.
+Right-click the "Start" icon and click "System" on the menu. Click on "Remote Desktop". 
+
 </p>
