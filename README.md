@@ -454,5 +454,5 @@ Log in to dc-1. Right-click "Windows Powershell ISE" and select "Run as administ
 
 <p>
   
-While the users are still being created, we can refresh the "_Employees" folder in "Active Directory Users and Computers" to see the users that have been created.    
+While the users are still being created, we can refresh the "_Employees" folder in "Active Directory Users and Computers" to see the users that have been created. Randomly select on one of these accounts that have been created and login to client-1 with the user name and "Password1", a default password that has been set for all these accounts.     
 </p>
