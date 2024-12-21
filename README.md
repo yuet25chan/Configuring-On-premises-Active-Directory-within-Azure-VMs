@@ -400,3 +400,14 @@ You can log in to the Domain Controller and verify that Client-1 shows up in ADU
 <br/>
 
 <h2> Setup Remote Desktop for non-administrative users on Client-1 </h2>
+
+<p>
+  
+![image](https://github.com/user-attachments/assets/b521b43e-29de-4216-bd49-06824accd26f)
+
+</p>
+
+<p>
+
+Right-click the "Start" icon and click "System" on the menu.
+</p>
