@@ -399,4 +399,4 @@ You can log in to the Domain Controller and verify that Client-1 shows up in ADU
 </p>
 <br/>
 
-<h3> Setup Remote Desktop for non-administrative users on Client-1 </h3>
+<h2> Setup Remote Desktop for non-administrative users on Client-1 </h2>
