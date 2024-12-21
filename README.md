@@ -418,10 +418,17 @@ You can log in to the Domain Controller and verify that Client-1 shows up in ADU
 
 <p>
 
-Right-click the "Start" icon and click "System" on the menu. Click on "Remote Desktop". Select "Users that can remotely access this PC". Add "domain users" to "domain users" access to remote desktop. 
+Right-click the "Start" icon and click "System" on the menu. Click on "Remote Desktop". Select "Users that can remotely access this PC". Add "domain users" to "domain users" access to the Remote Desktop. 
 
 
 </p>
 
 <h2> Create a bunch of additional users and attempt to log into client-1 with one of the users </h2>
+
+<p>
+
+![image](https://github.com/user-attachments/assets/7a778288-4322-401d-b691-b704a2c1bc86)
+
+
+</p>
 
