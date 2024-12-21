@@ -73,7 +73,7 @@ Attempt to ping DC-1's private IP address
 Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
 </p>
 <br />
-
+<h2> Install Active Directory </h2>
 <p>
 
 ![image](https://github.com/user-attachments/assets/1dfcaff6-3de9-403c-9a5c-b858c52938dc)
@@ -189,7 +189,7 @@ Check the box, click "Next" and then click "Install".
 
 <P>
 
-Once the Active Directory has been installed, we can promote DC-1 as a domain controller. To promote it as a domain controler, we need to click on the flag on the upper right and click "Promote this server to a domain controller". 
+Once the Active Directory has been installed, we can promote DC-1 as a domain controller. To promote it as a domain controller, we need to click on the flag on the upper right and click "Promote this server to a domain controller". 
 
 </P>
 
