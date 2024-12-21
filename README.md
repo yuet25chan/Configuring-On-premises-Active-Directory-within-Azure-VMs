@@ -444,3 +444,10 @@ Right-click the "Start" icon and click "System" on the menu. Click on "Remote De
   
 Log in to dc-1. Right-click "Windows Powershell ISE" and select "Run as administrator." Once the Windows Powershell is open, open a new file. Save the Powershell file as "Create Users" on the desktop. paste the contents of the script into it. Click on the green arrow to run the script. 
 </p>
+
+<p>
+  
+![image](https://github.com/user-attachments/assets/8fee3baf-9ddc-41fe-99b2-42ea2f257ed5)
+
+
+</p>
