@@ -74,6 +74,7 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
 </p>
 <br />
 <h2> Install Active Directory </h2>
+
 <p>
 
 ![image](https://github.com/user-attachments/assets/1dfcaff6-3de9-403c-9a5c-b858c52938dc)
@@ -396,3 +397,6 @@ Login to Client-1 as the original local admin (labuser). Once logged in, right-c
 You can log in to the Domain Controller and verify that Client-1 shows up in ADUC. Create a new OU named “_CLIENTS” and drag Client-1 into there. 
 
 </p>
+<br/>
+
+<h3> Setup Remote Desktop for non-administrative users on Client-1 </h3>
