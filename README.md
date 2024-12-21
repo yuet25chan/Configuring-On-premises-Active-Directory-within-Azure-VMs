@@ -386,12 +386,13 @@ Login to Client-1 as the original local admin (labuser). Once logged in, right-c
 
 ![image](https://github.com/user-attachments/assets/bc915c92-9c4c-4b01-a715-76ccee6caa87)
 
+![image](https://github.com/user-attachments/assets/00eb74c4-0517-4e80-b86a-5f8a74b4d5a7)
 
 
 </p>
 
 <p>
 
-Login to the Domain Controller and verify that Client-1 shows up in ADUC. Create a new OU named “_CLIENTS” and drag Client-1 into there
+You can log in to the Domain Controller and verify that Client-1 shows up in ADUC. Create a new OU named “_CLIENTS” and drag Client-1 into there
 
 </p>
