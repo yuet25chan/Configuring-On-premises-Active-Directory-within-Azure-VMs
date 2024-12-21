@@ -433,10 +433,14 @@ Right-click the "Start" icon and click "System" on the menu. Click on "Remote De
 
 ![image](https://github.com/user-attachments/assets/77e26897-c3fb-4db0-be4c-fce182bbcafd)
 
+![image](https://github.com/user-attachments/assets/51ae5fb6-55f7-4835-9708-7e2fa8ca70f1)
+
+
+
 
 </p>
 
 <p>
   
-Log in to dc-1. Right-click "Windows Powershell ISE" and select "Run as administrator." Once the Windows Powershell is open, open a new file. Save the Powershell file as "Create Users" on desktop. 
+Log in to dc-1. Right-click "Windows Powershell ISE" and select "Run as administrator." Once the Windows Powershell is open, open a new file. Save the Powershell file as "Create Users" on the desktop. paste the contents of the script into it. Click on the green arrow to run the script. 
 </p>
