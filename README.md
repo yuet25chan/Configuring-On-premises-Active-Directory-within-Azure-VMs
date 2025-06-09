@@ -10,12 +10,6 @@ This tutorial outlines the steps to deploy and configure an **on-premises-style 
 
 ---
 
-## 📺 Video Demonstration
-
-- [YouTube: How to Deploy On-Premises Active Directory within Azure Compute](https://www.youtube.com)
-
----
-
 ## 🧰 Technologies & Tools Used
 
 - **Microsoft Azure** (Virtual Machines / Compute)
@@ -113,4 +107,4 @@ This tutorial outlines the steps to deploy and configure an **on-premises-style 
 
 ---
 
-© 2025 | Tutorial by [Your Name]
+© 2025 | Tutorial by Yuet Chan
